@@ -26,11 +26,11 @@ code {
   border-bottom: .5px solid rgb(95, 90, 90);
   padding-bottom: 10px;  
   margin-bottom: 10px;  
-  width: 100%;
+  width: 70%;
 }
  
 .dish-info {
-  width: 30%;  
+  width: 21%;  
 }
  
 .dish-details {
@@ -60,7 +60,7 @@ code {
 }
   
 .tab {
-  flex-direction: column;
+  flex-direction: row;
   align-items: center; 
   display: flex;
   flex-wrap: wrap; 
@@ -97,7 +97,7 @@ code {
 .dish-cal {
   color: white;
   font-size: small;
-  margin-right: 10px;
+  margin-right: -55px;
 }
 
 .dish-c-wrapper {
